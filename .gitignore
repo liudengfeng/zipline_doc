@@ -331,4 +331,4 @@ ASALocalRun/
 
 # vscode
 .vscode/
-./*.ipynb
+.ipynb_checkpoints/
